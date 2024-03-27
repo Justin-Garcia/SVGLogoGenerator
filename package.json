@@ -1,0 +1,25 @@
+{
+  "name": "svglogogenerator",
+  "version": "1.0.0",
+  "description": "Creating An SVG Logo through CLI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Justin-Garcia/SVGLogoGenerator.git"
+  },
+  "author": "justingarcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justin-Garcia/SVGLogoGenerator/issues"
+  },
+  "homepage": "https://github.com/Justin-Garcia/SVGLogoGenerator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2"
+  }
+}
